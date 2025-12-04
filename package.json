@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Brahimsml.github.io/brahimproject",
+  "homepage": "https://Brahimsml.github.io/brahimproject&quot",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
@@ -24,6 +24,7 @@
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  
   },
   "eslintConfig": {
     "extends": [
