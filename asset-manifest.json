@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/brahimproject/static/css/main.0bb47b2f.css",
-    "main.js": "/brahimproject/static/js/main.8b335fae.js",
+    "main.js": "/brahimproject/static/js/main.2e8b59ea.js",
     "static/js/787.28cb0dcd.chunk.js": "/brahimproject/static/js/787.28cb0dcd.chunk.js",
     "static/media/hdr.webp": "/brahimproject/static/media/hdr.50c0149ea2e57b27bd59.webp",
     "static/media/about-bg.jpg": "/brahimproject/static/media/about-bg.d92cbeefac56015f78e3.jpg",
@@ -37,11 +37,11 @@
     "static/media/chair.webp": "/brahimproject/static/media/chair.5249a8b8e6b90d9aef64.webp",
     "index.html": "/brahimproject/index.html",
     "main.0bb47b2f.css.map": "/brahimproject/static/css/main.0bb47b2f.css.map",
-    "main.8b335fae.js.map": "/brahimproject/static/js/main.8b335fae.js.map",
+    "main.2e8b59ea.js.map": "/brahimproject/static/js/main.2e8b59ea.js.map",
     "787.28cb0dcd.chunk.js.map": "/brahimproject/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bb47b2f.css",
-    "static/js/main.8b335fae.js"
+    "static/js/main.2e8b59ea.js"
   ]
 }
